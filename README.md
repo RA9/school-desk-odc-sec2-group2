@@ -17,3 +17,4 @@ Easy access to schools' information
 ### Meet The Team
 Abraham M.B Selebay - [@xyberkid](https://www.github.com/xyberkid)
 
+Sumowoi P. Pewu JR. - [@sumowoi-ppewujr](https://www.github.com/sumowoi-ppewujr)
