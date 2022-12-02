@@ -17,3 +17,4 @@ Easy access to schools' information
 ### Meet The Team
 Abraham M.B Selebay - [@xyberkid](https://www.github.com/xyberkid)
 
+Rashie Y. Garley - [@rashiegarley](https://www.github.com/rashiegarley)
