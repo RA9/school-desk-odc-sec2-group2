@@ -147,8 +147,13 @@ export default function App() {
                       BlueCrest University College
                     </h6>
                     <p className="text-sm text-gray-900">
-                      Sportacus andrew weatherall goose Refined gentlemen super
-                      mario des lynam alpha trion zap rowsdower.
+                      BlueCrest College was conceived as a high-tech
+                      Information Technology (IT) centre of excellence
+                      in late 2013. In April 2014, the Board of School
+                      Accreditation of the Ministry of Education of the
+                      Republic of Liberia awarded a letter of accreditation
+                      to BlueCrest International I. T. Institute to operate
+                      as a vocational Institution.
                     </p>
                   </div>
                 </div>
@@ -171,8 +176,11 @@ export default function App() {
                       Starz College of Technology
                     </h6>
                     <p className="text-sm text-gray-900">
-                      Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit.
+                      STARZ was established in the U.S.A. in 2007 and
+                      incorporated in Monrovia, Liberia in July of 2009;
+                      with the objectives of addressing the IT and capacity
+                      needs of Liberia. Starz University is Accredited and
+                      Chartered in Liberia by the Commission on Higher Education.
                     </p>
                   </div>
                 </div>
@@ -193,8 +201,13 @@ export default function App() {
                   <div className="p-5">
                     <h6 className="mb-2 font-semibold leading-5">University Of Libeia</h6>
                     <p className="text-sm text-gray-900">
-                      A flower in my garden, a mystery in my panties. Heart attack
-                      never stopped old Big Bear.
+                      The University of Liberia was founded in
+                      1862 as Liberia College and became a full
+                      University in 1951. It is a public institution
+                      funded mainly by the Government of Liberia.
+                      The University now has four campuses: Capitol Hill,
+                      Fendall, Medical School Fendall, and Starz-Sinji
+                      campus located in Sinji, Grand Cape Mount County.
                     </p>
                   </div>
                 </div>
@@ -308,7 +321,7 @@ export default function App() {
                 <div className="flex-grow border border-t-0 rounded-b">
                   <div className="p-5">
                     <h6 className="mb-2 font-semibold leading-5">
-                    Barshell University College
+                      Barshell University College
                     </h6>
                     <p className="text-sm text-gray-900">
                       Bro ipsum dolor sit amet gaper backside single track, manny
