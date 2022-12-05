@@ -132,16 +132,16 @@ export default function Contact(){
             </a>
             <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
               <li>
-                <a href="#" class="mr-4 hover:underline md:mr-6 ">Home</a>
+                <a href="/" class="mr-4 hover:underline md:mr-6 ">Home</a>
               </li>
               <li>
-                <a href="#" class="mr-4 hover:underline md:mr-6">Notification</a>
+                <a href="notification" class="mr-4 hover:underline md:mr-6">Notification</a>
               </li>
               <li>
-                <a href="#" class="mr-4 hover:underline md:mr-6 ">About Us</a>
+                <a href="/about" class="mr-4 hover:underline md:mr-6 ">About Us</a>
               </li>
               <li>
-                <a href="#" class="hover:underline">Contact Us</a>
+                <a href="/contact" class="hover:underline">Contact Us</a>
               </li>
             </ul>
           </div>

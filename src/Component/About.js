@@ -52,7 +52,7 @@ export default function About() {
                 <div class="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
                     <div class="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                         <div class="md:5/12 lg:w-5/12">
-                            <img src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png" alt="image" loading="lazy" width="" height=""/>
+                            <img src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png" alt="image" loading="lazy" width="" height="" />
                         </div>
                         <div class="md:7/12 lg:w-6/12">
                             <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">Nuxt development is carried out by passionate developers</h2>
@@ -71,13 +71,13 @@ export default function About() {
                     </a>
                     <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
                         <li>
-                            <a href="/navbar" class="mr-4 hover:underline md:mr-6 ">Home</a>
+                            <a href="/" class="mr-4 hover:underline md:mr-6 ">Home</a>
                         </li>
                         <li>
-                            <a href="#" class="mr-4 hover:underline md:mr-6">Notification</a>
+                            <a href="notification" class="mr-4 hover:underline md:mr-6">Notification</a>
                         </li>
                         <li>
-                            <a href="" class="mr-4 hover:underline md:mr-6 ">About Us</a>
+                            <a href="/about" class="mr-4 hover:underline md:mr-6 ">About Us</a>
                         </li>
                         <li>
                             <a href="/contact" class="hover:underline">Contact Us</a>
