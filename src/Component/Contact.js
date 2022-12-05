@@ -195,7 +195,7 @@ export default function Contact(){
                 <a href="/" class="mr-4 hover:underline md:mr-6 ">Home</a>
               </li>
               <li>
-                <a href="notification" class="mr-4 hover:underline md:mr-6">Notification</a>
+                <a href="/notification" class="mr-4 hover:underline md:mr-6">Notification</a>
               </li>
               <li>
                 <a href="/about" class="mr-4 hover:underline md:mr-6 ">About Us</a>
