@@ -9,6 +9,7 @@ import './index.css';
 import App from './App';
 import Contact from './Component/Contact';
 import Notification from './Component/Notification';
+import About from './Component/About';
 import reportWebVitals from './reportWebVitals';
 
 const router = createBrowserRouter([
@@ -25,6 +26,11 @@ const router = createBrowserRouter([
     path: "/contact",
     element: <Contact/>,
   },
+
+  {
+    path: "/about",
+    element: <About/>,
+  }
 ]);
 
 
