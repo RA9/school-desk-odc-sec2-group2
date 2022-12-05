@@ -22,14 +22,14 @@ export default function About() {
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">Our Story</h1>
                         <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">SchoolDesk is a quick access online environment that was build by four individuals inorder to help students and parents garther information about what ever University in Liberia they may desire to eroll at.
                             Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems. <br /> <br />
-                            <b>KINDLY MEET OUR TEAM</b><br /> 1. Abraham A.M Seleebay<br /> 2. I. Jose Kpadeh<br /> 3. Rashie Y. Garley<br />  4. Sumowoi P. Pewu Jr.  </p>
+                            <b>KINDLY MEET OUR TEAM</b><br /> 1. Abraham MB Seleebay<br /> 2. I. Jose Kpadeh<br /> 3. Rashie Y. Garley<br />  4. Sumowoi P. Pewu Jr.  </p>
                     </div>
                     <div class="w-full lg:w-8/12 lg:pt-8">
                         <div class="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
                             <div class="p-4 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/FYTKDG6/Rectangle-118-2.png" alt="Alexa featured Image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/zHjXqg4/Rectangle-118.png" alt="Alexa featured Image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Abraham AM Seleebay</p>
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Abraham MB Seleebay</p>
                             </div>
                             <div class="p-4 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/fGmxhVy/Rectangle-119.png" alt="Olivia featured Image" />
