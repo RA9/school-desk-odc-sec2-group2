@@ -66,7 +66,7 @@ export default function Navbar() {
                   text-gray-500
                   hover:border-gray-300 hover:bg-gray-50 hover:text-gray-700
                 ">
-                            Navbar
+                            Home
                         </Link>
                         <Link
                             to="/notification"
