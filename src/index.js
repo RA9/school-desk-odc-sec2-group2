@@ -8,12 +8,17 @@ import {
 import './index.css';
 import App from './App';
 import Contact from './Component/Contact';
+import Notification from './Component/Notification';
 import reportWebVitals from './reportWebVitals';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+  },
+  {
+    path: "/notification",
+    element: <Notification />,
   },
  
   {
