@@ -1,7 +1,7 @@
 import React from "react";
 export default function Notification() {
     return (
-
+        
         <ol class="relative border-l border-gray-200 dark:border-gray-700">
             <li class="mb-10 ml-6">
                 <span class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
