@@ -1,63 +1,131 @@
 import React from "react";
+import Navbar from "./Navbar";
 export default function Notification() {
     return (
-
-        <div class="max-w-lg mx-auto items-center h-screen">
-            <div class="flex justify-between px-3 py-1 bg-white items-center gap-1 rounded-lg border border-gray-100 my-3">
-                <div class="relative w-16 h-16 rounded-full hover:bg-red-700 bg-gradient-to-r from-purple-400 via-blue-500 to-red-400 ">
-                    <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-14 h-14 bg-gray-200 rounded-full border-2 border-white">
-                        <img class="w-full h-full object-cover rounded-full" src="https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg" alt="" />
-                    </div>
-                </div>
-                <div>
-                    <span class="font-mono">Emma would like to connect with you</span>
-                </div>
-                <div class="flex gap-2">
-                    <button>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                        </svg>
-                    </button>
-                    <button>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                            <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
-                        </svg>
-                    </button>
-                </div>
-            </div>
-
-            <div class="flex justify-between px-3 py-1 bg-white items-center gap-1 rounded-lg border border-gray-100 my-3">
-                <div class="relative w-16 h-16 rounded-full hover:bg-red-700 bg-gradient-to-r from-purple-400 via-blue-500 to-red-400 ">
-                    <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-14 h-14 bg-gray-200 rounded-full border-2 border-white">
-                        <img class="w-full h-full object-cover rounded-full" src="https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="" />
-                    </div>
-                </div>
-                <div>
-                    <span class="font-mono">Tom liked one of your comments</span>
-                </div>
-                <div>
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                        <path fill-rule="evenodd" d="M18 10c0 3.866-3.582 7-8 7a8.841 8.841 0 01-4.083-.98L2 17l1.338-3.123C2.493 12.767 2 11.434 2 10c0-3.866 3.582-7 8-7s8 3.134 8 7zM7 9H5v2h2V9zm8 0h-2v2h2V9zM9 9h2v2H9V9z" clip-rule="evenodd" />
-                    </svg>
-                </div>
-            </div>
-
-            <div class="flex justify-between px-3 py-1 bg-white items-center gap-1 rounded-lg border border-gray-100 my-3">
-                <div class="relative w-16 h-16 rounded-full hover:bg-red-700 bg-gradient-to-r from-purple-400 via-blue-500 to-red-400 ">
-                    <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-14 h-14 bg-gray-200 rounded-full border-2 border-white">
-                        <img class="w-full h-full object-cover rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="" />
-                    </div>
-                </div>
-                <div>
-                    <span class="font-mono">Andrea posted a new Tweet have a look</span>
-                </div>
-                <div>
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                        <path d="M10 2a6 6 0 00-6 6v3.586l-.707.707A1 1 0 004 14h12a1 1 0 00.707-1.707L16 11.586V8a6 6 0 00-6-6zM10 18a3 3 0 01-3-3h6a3 3 0 01-3 3z" />
-                    </svg>
-                </div>
-            </div>
+        <>
+            <Navbar />
+          <div>
+          <div class="h-screen grid place-items-center my-8">
+  <div class="lg:w-2/5 sm:w-3/5 w-11/12 bg-gray-100 dark:bg-gray-800 rounded-xl mx-auto border p-10 shadow-sm">
+    <div class="inline-flex items-center justify-between w-full">
+      <h3 class="font-bold text-xl sm:text-2xl text-gray-800 dark:text-white">Notifications</h3>
+      <button
+        class="inline-flex text-xs sm:text-sm bg-white px-2 sm:px-3 py-2 text-blue-500 items-center rounded font-medium
+         shadow border focus:outline-none transform active:scale-75 transition-transform duration-700 hover:bg-blue-500
+          hover:text-white hover:-translate-y-1 hover:scale-110 dark:text-gray-800 dark:hover:bg-gray-100">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-1 sm:mr-2" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd"
+            d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+            clip-rule="evenodd" />
+        </svg>
+        Close
+      </button>
+    </div>
+    <p class="mt-8 font-medium text-gray-500 text-sm sm:text-base dark:text-white">Today</p>
+    <div class="mt-2 px-6 py-4 bg-white rounded-lg shadow w-full">
+      <div class=" inline-flex items-center justify-between w-full">
+        <div class="inline-flex items-center">
+        <img
+            src="https://cdn-icons-png.flaticon.com/512/6863/6863272.png"
+            alt="Form Icon" class="w-6 h-6 mr-3"/>
+          <h3 class="font-bold text-base text-gray-800">Updates</h3>
         </div>
+        <p class="text-xs text-gray-500">
+          2 min ago
+        </p>
+      </div>
+      <p class="mt-1 text-sm">
+        Hey! Do you remember about choosing your training regime?
+      </p>
+    </div>
+    <div class="mt-2 px-6 py-4 bg-white rounded-lg shadow w-full">
+      <div class=" inline-flex items-center justify-between w-full">
+        <div class="inline-flex items-center">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/893/893257.png"
+            alt="Messages Icon" class="w-6 h-6 mr-3"/>
+          <h3 class="font-bold text-base text-gray-800">Messages</h3>
+        </div>
+        <p class="text-xs text-gray-500">
+          1 hour ago
+        </p>
+      </div>
+      <p class="mt-1 text-sm">
+        You have a new message
+      </p>
+    </div>
+    <p class="mt-8 font-medium text-gray-500 dark:text-white text-sm sm:text-base">Yesterday</p>
+    <div class="mt-2 px-6 py-4 bg-white rounded-lg shadow w-full">
+      <div class=" inline-flex items-center justify-between w-full">
+        <div class="inline-flex items-center">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/6863/6863272.png"
+            alt="Form Icon" class="w-6 h-6 mr-3"/>
+          <h3 class="font-bold text-base text-gray-800">Updates</h3>
+        </div>
+        <p class="text-xs text-gray-500">
+          12:47
+        </p>
+      </div>
+      <p class="mt-1 text-sm">
+        Always remember to bring yourself up to speed with the latest info from SchoolDesk 
+      </p>
+    </div>
+    <div class="mt-2 px-6 py-4 bg-white rounded-lg shadow w-full">
+      <div class=" inline-flex items-center justify-between w-full">
+        <div class="inline-flex items-center">
+            <img
+            src="https://cdn-icons-png.flaticon.com/512/893/893257.png"
+            alt="Messages Icon" class="w-6 h-6 mr-3"/>
+          <h3 class="font-bold text-base text-gray-800">Messages</h3>
+        </div>
+        <p class="text-xs text-gray-500">
+          12:43
+        </p>
+      </div>
+      <p class="mt-1 text-sm">
+        We're glad you've decided to use our Platform! Stay tuned!
+      </p>
+    </div>
+    <button
+    class="inline-flex text-sm bg-white justify-center px-4 py-2 mt-12 w-full text-red-500 items-center rounded font-medium
+     shadow border focus:outline-none transform active:scale-75 transition-transform duration-700 hover:bg-red-500
+      hover:text-white hover:-translate-y-1 hover:scale-110 dark:hover:bg-white dark:text-gray-800 dark:hover:text-gray-800">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-2 sm:mr-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
+      </svg>
+    Clear all notifications
+  </button>
+  </div>
+</div>
+          </div>
+              
+            <footer class="p-4 bg-white rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-900">
+                <div class="sm:flex sm:items-center sm:justify-between">
+                    <a href="https://flowbite.com/" class="flex items-center mb-4 sm:mb-0">
+                        <img src="https://flowbite.com/docs/images/logo.svg" class="mr-3 h-8" alt="Flowbite Logo" />
+                        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">SchoolDesk</span>
+                    </a>
+                    <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
+                        <li>
+                            <a href="/navbar" class="mr-4 hover:underline md:mr-6 ">Home</a>
+                        </li>
+                        <li>
+                            <a href="#" class="mr-4 hover:underline md:mr-6">Notification</a>
+                        </li>
+                        <li>
+                            <a href="" class="mr-4 hover:underline md:mr-6 ">About Us</a>
+                        </li>
+                        <li>
+                            <a href="/contact" class="hover:underline">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+                <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-2" />
+                <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="https://flowbite.com/" class="hover:underline">SchoolDesk™</a>. All Rights Reserved.
+                </span>
+            </footer>
+        </>
 
     )
 }
