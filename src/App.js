@@ -4,7 +4,7 @@ export default function App() {
   return (
     <>
       <Navbar />
-
+      
       <main>
         <div className="mb-16">
           <div className="bg-gray-100">
