@@ -10,7 +10,7 @@ export default function About() {
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">About Us</h1>
                         <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems.
-                        SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia. </p>
+                            SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia. </p>
                     </div>
                     <div class="w-full lg:w-8/12">
                         <img class="w-full h-full" src="https://i.ibb.co/FhgPJt8/Rectangle-116.png" alt="A group of People" />
@@ -21,8 +21,8 @@ export default function About() {
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">Our Story</h1>
                         <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">SchoolDesk is a quick access online environment that was build by four individuals inorder to help students and parents garther information about what ever University in Liberia they may desire to eroll at.
-                        Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems. <br/> <br/>
-                        <b>KINDLY MEET OUR TEAM</b><br/> 1. Abraham A.M Seleebay<br/> 2. I. Jose Kpadeh<br/> 3. Rashie Y. Garley<br/>  4. Sumowoi P. Pewu Jr.  </p>
+                            Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems. <br /> <br />
+                            <b>KINDLY MEET OUR TEAM</b><br /> 1. Abraham A.M Seleebay<br /> 2. I. Jose Kpadeh<br /> 3. Rashie Y. Garley<br />  4. Sumowoi P. Pewu Jr.  </p>
                     </div>
                     <div class="w-full lg:w-8/12 lg:pt-8">
                         <div class="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
@@ -77,7 +77,7 @@ export default function About() {
 
             <footer class="p-4 bg-white rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-900">
                 <div class="sm:flex sm:items-center sm:justify-between">
-                    <a href="https://flowbite.com/" class="flex items-center mb-4 sm:mb-0">
+                    <a href="/" class="flex items-center mb-4 sm:mb-0">
                         <img src="https://flowbite.com/docs/images/logo.svg" class="mr-3 h-8" alt="Flowbite Logo" />
                         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">SchoolDesk</span>
                     </a>
@@ -86,7 +86,7 @@ export default function About() {
                             <a href="/" class="mr-4 hover:underline md:mr-6 ">Home</a>
                         </li>
                         <li>
-                            <a href="notification" class="mr-4 hover:underline md:mr-6">Notification</a>
+                            <a href="/notification" class="mr-4 hover:underline md:mr-6">Notification</a>
                         </li>
                         <li>
                             <a href="/about" class="mr-4 hover:underline md:mr-6 ">About Us</a>
@@ -97,7 +97,7 @@ export default function About() {
                     </ul>
                 </div>
                 <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-2" />
-                <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="https://flowbite.com/" class="hover:underline">SchoolDesk™</a>. All Rights Reserved.
+                <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="/" class="hover:underline">SchoolDesk™</a>. All Rights Reserved.
                 </span>
             </footer>
         </>
