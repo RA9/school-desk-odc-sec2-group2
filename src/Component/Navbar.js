@@ -54,7 +54,7 @@ export default function Navbar() {
                     <div class="space-y-1 pt-2 pb-4">
                         {/* <!-- Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" --> */}
                         <Link
-                            to="/"
+                            to="/Navbar"
                             class="
                   block
                   border-l-4 border-transparent
