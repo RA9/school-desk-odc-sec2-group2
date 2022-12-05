@@ -1,5 +1,6 @@
 import React from "react";
-const Contact = () => {
+import Navbar from "./Navbar";
+export default function Contact(){
     
     const handleSubmit = (event) => {
         event.preventDefault();
@@ -13,6 +14,7 @@ const Contact = () => {
     };
     return (
         <>
+        <Navbar />
         <form id="login" onSubmit={handleSubmit}>
             <div className="bg-white dark:bg-gray-800">
                 <div className="container mx-auto bg-white dark:bg-gray-800 rounded">
@@ -124,4 +126,3 @@ const Contact = () => {
         </>
     );
 };
-export default Contact;
