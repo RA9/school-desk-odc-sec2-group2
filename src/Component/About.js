@@ -9,7 +9,8 @@ export default function About() {
                 <div class="flex flex-col lg:flex-row justify-between gap-8">
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">About Us</h1>
-                        <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum.In the first place we have granted to God, and by this our present charter confirmed for us and our heirs forever that the English Church shall be free, and shall have her rights entire, and her liberties inviolate; and we will that it be thus observed; which is apparent from</p>
+                        <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems.
+                        SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia. </p>
                     </div>
                     <div class="w-full lg:w-8/12">
                         <img class="w-full h-full" src="https://i.ibb.co/FhgPJt8/Rectangle-116.png" alt="A group of People" />
@@ -19,29 +20,31 @@ export default function About() {
                 <div class="flex lg:flex-row flex-col justify-between gap-8 pt-12">
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">Our Story</h1>
-                        <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum.In the first place we have granted to God, and by this our present charter confirmed for us and our heirs forever that the English Church shall be free, and shall have her rights entire, and her liberties inviolate; and we will that it be thus observed; which is apparent from</p>
+                        <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">SchoolDesk is a quick access online environment that was build by four individuals inorder to help students and parents garther information about what ever University in Liberia they may desire to eroll at.
+                        Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems. <br/> <br/>
+                        <b>KINDLY MEET OUR TEAM</b><br/> 1. Abraham A.M Seleebay<br/> 2. I. Jose Kpadeh<br/> 3. Rashie Y. Garley<br/>  4. Sumowoi P. Pewu Jr.  </p>
                     </div>
                     <div class="w-full lg:w-8/12 lg:pt-8">
                         <div class="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
                             <div class="p-4 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/FYTKDG6/Rectangle-118-2.png" alt="Alexa featured Image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/zHjXqg4/Rectangle-118.png" alt="Alexa featured Image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Alexa</p>
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Abraham AM Seleebay</p>
                             </div>
                             <div class="p-4 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/fGmxhVy/Rectangle-119.png" alt="Olivia featured Image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/NrWKJ1M/Rectangle-119.png" alt="Olivia featured Image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Olivia</p>
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">I. Jose Kpadeh</p>
                             </div>
                             <div class="p-4 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/Pc6XVVC/Rectangle-120.png" alt="Liam featued Image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/C5MMBcs/Rectangle-120.png" alt="Liam featued Image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Liam</p>
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Rashie Y. Garley</p>
                             </div>
-                            <div class="p-4 pb-6 flex justify-center flex-col items-center">
+                            <div class="p-1 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/7nSJPXQ/Rectangle-121.png" alt="Elijah featured image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/ThZBWxH/Rectangle-121.png" alt="Elijah featured image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Elijah</p>
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Sumowoi P. Pewu Jr.</p>
                             </div>
                         </div>
                     </div>
@@ -55,9 +58,18 @@ export default function About() {
                             <img src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png" alt="image" loading="lazy" width="" height="" />
                         </div>
                         <div class="md:7/12 lg:w-6/12">
-                            <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">Nuxt development is carried out by passionate developers</h2>
-                            <p class="mt-6 text-gray-600">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!</p>
-                            <p class="mt-4 text-gray-600"> Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
+                            <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">SchoolDesk is here to solve all your problems</h2>
+                            <p class="mt-6 text-gray-600"> We provide information about various Universities in Libeia.</p>
+                            <p class="mt-4 text-gray-600"> Universities such as: BlueCrest, Starz, University Of Libeia, AUWA, UMU, AME, AMEZ, Stella Maris Polytechnic, Barshell University, etc.</p>
+                            <p class="mt-6 text-gray-600"> We provide information about upcoming events at the various Universities lasted above.</p>
+                            <p class="mt-6 text-gray-600"> We provide information about entrance at these Universities.</p>
+                            <p class="mt-6 text-gray-600"> We provide information about enrollment at these Universities.</p>
+                            <p class="mt-6 text-gray-600"> We provide information about scholarships at these Universities.</p>
+                            <p class="mt-6 text-gray-600"> We provide information about programs at these Universities.</p>
+                            <p class="mt-6 text-gray-600"> We help you get in touch with these Universities online.</p>
+                            <p class="mt-6 text-gray-600"> We provide information about taking transfer at these Universities.</p>
+                            <p class="mt-6 text-gray-600"> We provide almost every information regarding these Universities.</p>
+                            <p class="mt-6 text-gray-600"> Remember! with SchoolDesk, all your worries are over.</p>
                         </div>
                     </div>
                 </div>
