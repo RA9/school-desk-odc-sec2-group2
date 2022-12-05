@@ -8,8 +8,8 @@ export default function About() {
             <div class="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4">
                 <div class="flex flex-col lg:flex-row justify-between gap-8">
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
-                        <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">About Us</h1>
-                        <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems.
+                        <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-auto pb-4">About Us</h1>
+                        <p class="font-normal text-base leading-6 text-gray-600 dark:text-auto">Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems.
                             SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia. </p>
                     </div>
                     <div class="w-full lg:w-8/12">
@@ -20,31 +20,31 @@ export default function About() {
                 <div class="flex lg:flex-row flex-col justify-between gap-8 pt-12">
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">Our Story</h1>
-                        <p class="font-normal text-base leading-6 text-gray-600 dark:text-white">SchoolDesk is a quick access online environment that was build by four individuals inorder to help students and parents garther information about what ever University in Liberia they may desire to eroll at.
+                        <p class="font-normal text-base leading-6 text-gray-600 dark:text-auto">SchoolDesk is a quick access online environment that was build by four individuals inorder to help students and parents garther information about what ever University in Liberia they may desire to eroll at.
                             Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems. <br /> <br />
                             <b>KINDLY MEET OUR TEAM</b><br /> 1. Abraham MB Seleebay<br /> 2. I. Jose Kpadeh<br /> 3. Rashie Y. Garley<br />  4. Sumowoi P. Pewu Jr.  </p>
                     </div>
                     <div class="w-full lg:w-8/12 lg:pt-8">
                         <div class="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
                             <div class="p-4 pb-6 flex justify-center flex-col items-center">
-                                <img class="md:block hidden" src="https://i.ibb.co/FYTKDG6/Rectangle-118-2.png" alt="Alexa featured Image" />
-                                <img class="md:hidden block" src="https://i.ibb.co/zHjXqg4/Rectangle-118.png" alt="Alexa featured Image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Abraham MB Seleebay</p>
+                                <img class="md:block hidden" src="https://i.ibb.co/FYTKDG6/Rectangle-118-2.png" alt="Abraham featured Image" />
+                                <img class="md:hidden block" src="https://i.ibb.co/zHjXqg4/Rectangle-118.png" alt="Abraham featured Image" />
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">Abraham MB Seleebay</p>
                             </div>
                             <div class="p-4 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/fGmxhVy/Rectangle-119.png" alt="Olivia featured Image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/NrWKJ1M/Rectangle-119.png" alt="Olivia featured Image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">I. Jose Kpadeh</p>
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">I. Jose Kpadeh</p>
                             </div>
                             <div class="p-4 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/Pc6XVVC/Rectangle-120.png" alt="Liam featued Image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/C5MMBcs/Rectangle-120.png" alt="Liam featued Image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Rashie Y. Garley</p>
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">Rashie Y. Garley</p>
                             </div>
                             <div class="p-1 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://i.ibb.co/7nSJPXQ/Rectangle-121.png" alt="Elijah featured image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/ThZBWxH/Rectangle-121.png" alt="Elijah featured image" />
-                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-white mt-4">Sumowoi P. Pewu Jr.</p>
+                                <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">Sumowoi P. Pewu Jr.</p>
                             </div>
                         </div>
                     </div>
