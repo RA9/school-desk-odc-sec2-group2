@@ -1,5 +1,5 @@
 import React from "react";
-export default function Notificaton() {
+export default function Notification() {
     return (
 
         <ol class="relative border-l border-gray-200 dark:border-gray-700">
