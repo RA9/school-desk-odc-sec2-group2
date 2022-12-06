@@ -4,7 +4,8 @@ export default function App() {
   return (
     <>
       <Navbar />
-      
+      <image />
+
       <main>
         <div className="mb-16">
           <div className="bg-gray-100">
@@ -40,9 +41,10 @@ export default function App() {
                   </span>{' '}
                 </h2>
                 <p className="text-base text-gray-700 md:text-lg">
-                  Have You Have All Notification About Your School
+                  Hare You Have All Notification About Your School
                 </p>
               </div>
+              {/* <!-- Get started  
               <div className="flex items-center sm:justify-center">
                 <button
                   type="submit"
@@ -57,7 +59,7 @@ export default function App() {
                 >
                   Learn more
                 </a>
-              </div>
+              </div> end --*/}
             </div>
           </div>
           <div className="relative px-4 sm:px-0">
@@ -120,7 +122,7 @@ export default function App() {
                   </svg>
                 </div>
                 <p className="font-bold tracking-wide text-gray-800">
-                  Prepare Yoursefl
+                  Prepare Yourself
                 </p>
               </div>
             </div>
@@ -130,16 +132,15 @@ export default function App() {
         <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
           <div className="grid gap-5 row-gap-5 mb-8 lg:grid-cols-4 sm:grid-cols-2">
             <a
-              href="/"
+              href="https://bluecrest.edu.lr/"
               aria-label="View Item"
               className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg? auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                  src="https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
                   className="object-cover w-full h-48"
-                  alt=""
-                />
+                  alt="" />
                 <div className="flex-grow border border-t-0 rounded-b">
                   <div className="p-5">
                     <h6 className="mb-2 font-semibold leading-5">
@@ -229,8 +230,11 @@ export default function App() {
                       United Methodist University
                     </h6>
                     <p className="text-sm text-gray-900">
-                      Bro ipsum dolor sit amet gaper backside single track, manny
-                      Bike epic clipless. Schraeder drop gondy.
+                      University is to prepare a new generation
+                      of men and women schooled on the African
+                      continent to build nations that are spiritually,
+                      socially, economically and politically independent
+                      and self-sustaining.
                     </p>
                   </div>
                 </div>
@@ -253,8 +257,12 @@ export default function App() {
                       Stella Maris Polytechnic University
                     </h6>
                     <p className="text-sm text-gray-900">
-                      Sportacus andrew weatherall goose Refined gentlemen super
-                      mario des lynam alpha trion zap rowsdower.
+                      The Stella Maris Polytechnic is an Institution
+                      of higher learning own and operated by the
+                      Catholic Archdioces of Monrovia. With main
+                      campus situated on Capitol Hill in Monrovia
+                      the Polytechnic boasts of four colleges with
+                      over 2,500 enrollment.
                     </p>
                   </div>
                 </div>

@@ -19,7 +19,7 @@ export default function About() {
 
                 <div class="flex lg:flex-row flex-col justify-between gap-8 pt-12">
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
-                        <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-white pb-4">Our Story</h1>
+                        <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-auto pb-4">Our Story</h1>
                         <p class="font-normal text-base leading-6 text-gray-600 dark:text-auto">SchoolDesk is a quick access online environment that was build by four individuals inorder to help students and parents garther information about what ever University in Liberia they may desire to eroll at.
                             Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems. <br /> <br />
                             <b>KINDLY MEET OUR TEAM</b><br /> 1. Abraham MB Seleebay<br /> 2. I. Jose Kpadeh<br /> 3. Rashie Y. Garley<br />  4. Sumowoi P. Pewu Jr.  </p>
