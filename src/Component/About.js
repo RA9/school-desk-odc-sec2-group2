@@ -10,9 +10,11 @@ export default function About() {
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-auto pb-4">About Us</h1>
                         <p class="font-normal text-base leading-6 text-gray-600 dark:text-auto">Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems.
-                            SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia. </p>
+                            SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia.
+                            <br/> <br/>
+                            SchoolDesk was actually build to serve as middle man between schools and students around liberia. We help students get quick information from schools and also send information to schools through this platform. </p>
                     </div>
-                    <div class="w-full lg:w-8/12">
+                    <div class="w-full lg:w-1/3">
                         <img class="w-full h-full" src="https://i.pinimg.com/564x/ed/d7/22/edd722c919805a4ce19e96aa1adb88b5.jpg" alt="A group of People" />
                     </div>
                 </div>
@@ -22,11 +24,11 @@ export default function About() {
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-auto pb-4">Our Story</h1>
                         <p class="font-normal text-base leading-6 text-gray-600 dark:text-auto">SchoolDesk is a quick access online environment that was build by four individuals inorder to help students and parents garther information about what ever University in Liberia they may desire to eroll at.
                             Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems. <br /> <br />
-                            <b>KINDLY MEET OUR TEAM</b><br /> 1. Abraham MB Seleebay<br /> 2. I. Jose Kpadeh<br /> 3. Rashie Y. Garley<br />  4. Sumowoi P. Pewu Jr.  </p>
+                            <b>KINDLY MEET OUR TEAM</b><br /> 1. Abraham MB Seleebay<br /> 2. I. Jose Kpadeh<br /> 3. Rashie Y. Garley<br />  4. Sumowoi P.Pewu Jr.  </p>
                     </div>
                     <div class="w-full lg:w-8/12 lg:pt-8">
                         <div class="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
-                            <div class="p-4 pb-6 flex justify-center flex-col items-center">
+                            <div class="p-6 pb-6 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://media-exp1.licdn.com/dms/image/C4D03AQGt5Du5JxmnSQ/profile-displayphoto-shrink_800_800/0/1615563111584?e=2147483647&v=beta&t=DqUU3D47C2a_FPuBSau90NUpyKs8tOs-E9uhYkp3mKM" alt="Abraham featured Image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/zHjXqg4/Rectangle-118.png" alt="Abraham featured Image" />
                                 <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">Abraham MB Seleebay</p>
@@ -36,12 +38,12 @@ export default function About() {
                                 <img class="md:hidden block" src="https://i.ibb.co/NrWKJ1M/Rectangle-119.png" alt="Olivia featured Image" />
                                 <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">I. Jose Kpadeh</p>
                             </div>
-                            <div class="p-4 pb-6 flex justify-center flex-col items-center">
+                            <div class="p-3 pb-5 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/302003704_796921505077372_1618285712647944259_n.jpg?stp=c30.0.206.206a_dst-jpg_p206x206&_nc_cat=108&ccb=1-7&_nc_sid=da31f3&_nc_eui2=AeFaU44PA1n7jzXx-BbN39Nwj8-3nnU6wJ6Pz7eedTrAnvxAH23J_ezgkZaRPI7n2GMgTRrb1MLOq1ZZKuMptkL7&_nc_ohc=HzpG3k_8pRAAX_zGA8x&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&oh=00_AfAmp3SCRTaDsMna5wHo5ktsbcfuFYxRxv87P9whB5u50g&oe=639642A6" alt="Liam featued Image" />
                                 <img class="md:hidden block" src="https://i.ibb.co/C5MMBcs/Rectangle-120.png" alt="Liam featued Image" />
                                 <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">Rashie Y. Garley</p>
                             </div>
-                            <div class="p-4 pb-6 flex justify-center flex-col items-center">
+                            <div class="p-4 pb-3 flex justify-center flex-col items-center">
                                 <img class="md:block hidden" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/224562024_1250785928701449_3688528728739283235_n.jpg?stp=dst-jpg_p206x206&_nc_cat=110&ccb=1-7&_nc_sid=da31f3&_nc_eui2=AeF5k6Ogrm6-rbduQ3LAyi2rpZHJW67BqjOlkclbrsGqM0bdRhdOgxvCiogAEnu53D73y88cgJn2xhfq-p-6d_nt&_nc_ohc=KQfNDEA70QQAX_BOEPg&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCDsOutQt14JL2PeFm9k42oSS7eOl5TwyL6HJ1DjP2hcw&oe=6395D5EF" alt="Elijah featured image" />
                                 <img class="md:hidden block" src="https://i.pinimg.com/280x280_RS/67/e9/bd/67e9bdffd5cd7aed57957604c6a3f157.jpg" alt="Elijah featured image" />
                                 <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">Sumowoi P. Pewu Jr.</p>
