@@ -13,7 +13,7 @@ export default function About() {
                             SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia. </p>
                     </div>
                     <div class="w-full lg:w-8/12">
-                        <img class="w-full h-full" src="https://i.ibb.co/FhgPJt8/Rectangle-116.png" alt="A group of People" />
+                        <img class="w-full h-full" src="https://i.pinimg.com/564x/ed/d7/22/edd722c919805a4ce19e96aa1adb88b5.jpg" alt="A group of People" />
                     </div>
                 </div>
 
@@ -41,9 +41,9 @@ export default function About() {
                                 <img class="md:hidden block" src="https://i.ibb.co/C5MMBcs/Rectangle-120.png" alt="Liam featued Image" />
                                 <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">Rashie Y. Garley</p>
                             </div>
-                            <div class="p-1 pb-6 flex justify-center flex-col items-center">
-                                <img class="md:block hidden" src="https://i.ibb.co/7nSJPXQ/Rectangle-121.png" alt="Elijah featured image" />
-                                <img class="md:hidden block" src="https://i.ibb.co/ThZBWxH/Rectangle-121.png" alt="Elijah featured image" />
+                            <div class="p-4 pb-6 flex justify-center flex-col items-center">
+                                <img class="md:block hidden" src="https://i.pinimg.com/280x280_RS/67/e9/bd/67e9bdffd5cd7aed57957604c6a3f157.jpg" alt="Elijah featured image" />
+                                <img class="md:hidden block" src="https://i.pinimg.com/280x280_RS/67/e9/bd/67e9bdffd5cd7aed57957604c6a3f157.jpg" alt="Elijah featured image" />
                                 <p class="font-medium text-xl leading-5 text-gray-800 dark:text-auto mt-4">Sumowoi P. Pewu Jr.</p>
                             </div>
                         </div>
@@ -55,7 +55,7 @@ export default function About() {
                 <div class="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
                     <div class="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                         <div class="md:5/12 lg:w-5/12">
-                            <img src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png" alt="image" loading="lazy" width="" height="" />
+                            <img src="https://i.pinimg.com/236x/60/64/95/6064956425f6fe22817252b2c3176f04.jpg" alt="image" loading="lazy" width="" height="" />
                         </div>
                         <div class="md:7/12 lg:w-6/12">
                             <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">SchoolDesk is here to solve all your problems</h2>
