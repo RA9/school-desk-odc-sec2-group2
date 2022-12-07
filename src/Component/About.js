@@ -10,7 +10,9 @@ export default function About() {
                     <div class="w-full lg:w-5/12 flex flex-col justify-center">
                         <h1 class="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 dark:text-auto pb-4">About Us</h1>
                         <p class="font-normal text-base leading-6 text-gray-600 dark:text-auto">Having observed over the years that students are face with issue about identifying a University to attend after high School, knowing how those Universities are running, getting information about scholarships, etc, SchoolDesk was basically build to solve those problems.
-                            SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia. </p>
+                            SchoolDesk is a quick access online environment that was build inorder to help students and parents garther information about various Universities in Liberia.
+                            <br/> <br/>
+                            SchoolDesk was actually build to serve as middle man between schools and students around liberia. We help students get quick information from schools and also send information to schools through this platform. </p>
                     </div>
                     <div class="w-full lg:w-8/12">
                         <img class="w-full h-full" src="https://i.pinimg.com/564x/ed/d7/22/edd722c919805a4ce19e96aa1adb88b5.jpg" alt="A group of People" />
