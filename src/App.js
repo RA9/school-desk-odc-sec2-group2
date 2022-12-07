@@ -4,7 +4,6 @@ export default function App() {
   return (
     <>
       <Navbar />
-      <image />
 
       <main>
         <div className="mb-16">
@@ -138,7 +137,7 @@ export default function App() {
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                  src={"https://scontent-cdg2-1.xx.fbcdn.net/v/t39.30808-6/304845690_5799046620126484_1791028667726592749_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=PCWBnUvC9j0AX-1JHVw&_nc_zt=23&_nc_ht=scontent-cdg2-1.xx&oh=00_AfDQi3ujWk_0l73WXPsyplK1hVK9xoM6nWYtEsQOzks7Ew&oe=63954E48"}
                   className="object-cover w-full h-48"
                   alt="" />
                 <div className="flex-grow border border-t-0 rounded-b">
@@ -160,13 +159,13 @@ export default function App() {
               </div>
             </a>
             <a
-              href="/"
+              href="https://starzit.com/"
               aria-label="View Item"
               className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3182750/pexels-photo-3182750.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                  src="https://starzit.com/wp-content/uploads/2020/04/BUILDING.jpg"
                   className="object-cover w-full h-48"
                   alt=""
                 />
@@ -187,13 +186,13 @@ export default function App() {
               </div>
             </a>
             <a
-              href="/"
+              href="https://ul.edu.lr/"
               aria-label="View Item"
               className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3182746/pexels-photo-3182746.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                  src="https://test.everythinglib.com/wp-content/uploads/2019/06/University-of-Liberia-at-Fendall-Campus.jpg"
                   className="object-cover w-full h-48"
                   alt=""
                 />
@@ -214,13 +213,13 @@ export default function App() {
               </div>
             </a>
             <a
-              href="/"
+              href="https://umu.edu.lr/"
               aria-label="View Item"
               className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                  src="https://scontent-cdg2-1.xx.fbcdn.net/v/t39.30808-6/275997907_1044638309462609_6968044369498252400_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=hYHi6DY77_IAX8cpGZD&_nc_zt=23&_nc_ht=scontent-cdg2-1.xx&oh=00_AfAWf1XT91_HYGHCB3VGaqhLMOVpdHIA_AgDjrP8impSFw&oe=6394F799"
                   className="object-cover w-full h-48"
                   alt=""
                 />
@@ -241,13 +240,13 @@ export default function App() {
               </div>
             </a>
             <a
-              href="/"
+              href="http://smp.edu.lr/index.html"
               aria-label="View Item"
               className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500"
+                  src="https://scontent-cdt1-1.xx.fbcdn.net/v/t1.6435-9/121231187_103044561581349_3493800215699301335_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&ccb=1-7&_nc_sid=36a2c1&_nc_ohc=8t4z7IqKfiIAX_SYY_A&_nc_ht=scontent-cdt1-1.xx&oh=00_AfAFVanvMppQa7wbtilCHX55F9b3q77Zw19Si20Khj5YuQ&oe=63B81CC7"
                   className="object-cover w-full h-48"
                   alt=""
                 />
@@ -269,13 +268,13 @@ export default function App() {
               </div>
             </a>
             <a
-              href="/"
+              href="https://ame.edu.lr/"
               aria-label="View Item"
               className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                  src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.6435-9/119988759_1061218837614601_1070646956231788145_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=gYw992NLm-IAX8yMhz7&_nc_ht=scontent-cdg2-1.xx&oh=00_AfCETQiCM4OhgaiV0E-lVvnacg24t1SmxCqFFsRqeCwiqg&oe=63B7F88B"
                   className="object-cover w-full h-48"
                   alt=""
                 />
@@ -285,21 +284,25 @@ export default function App() {
                       AME University
                     </h6>
                     <p className="text-sm text-gray-900">
-                      Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit.
+                      The African Methodist Episcopal University
+                      is a private institution of higher learning
+                      located in Monrovia, in the West African nation
+                      of Liberia. Located on Camp Johnson Road, the
+                      school is the second largest college in Liberia
+                      with over 5,000 students.
                     </p>
                   </div>
                 </div>
               </div>
             </a>
             <a
-              href="/"
+              href="https://web.facebook.com/auwaliberia/?_rdc=1&_rdr"
               aria-label="View Item"
               className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                  src="https://jordan.adventist.org/?service=/modules/encyclopedia/media/getMediaFile&resource=D94R&file=D94RL.jpg"
                   className="object-cover w-full h-48"
                   alt=""
                 />
@@ -307,21 +310,25 @@ export default function App() {
                   <div className="p-5">
                     <h6 className="mb-2 font-semibold leading-5">Adventist University of West Africa</h6>
                     <p className="text-sm text-gray-900">
-                      A flower in my garden, a mystery in my panties. Heart attack
-                      never stopped old Big Bear.
+                      The Adventists University of West Africa's Nursing
+                      School began classes in 2011 on the campus of
+                      Adventist High School.[5] In 2012, ground was
+                      broken on the permanent site,[6] the first student
+                      elections were held,[7] and the nursing school moved
+                      into its permanent location.[5] In 2018
                     </p>
                   </div>
                 </div>
               </div>
             </a>
             <a
-              href="/"
+              href="https://web.facebook.com/BarshellUniversityCollege/?_rdc=1&_rdr"
               aria-label="View Item"
               className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
             >
               <div className="flex flex-col h-full">
                 <img
-                  src="https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                  src="https://counselorcorporation.com/wp-content/uploads/2021/06/barshell-university-college-liberia.jpeg"
                   className="object-cover w-full h-48"
                   alt=""
                 />
@@ -331,16 +338,123 @@ export default function App() {
                       Barshell University College
                     </h6>
                     <p className="text-sm text-gray-900">
-                      Bro ipsum dolor sit amet gaper backside single track, manny
-                      Bike epic clipless. Schraeder drop gondy.
+                      The Barshell University College welcomes you to your College Journey. We
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <a
+              href="/"
+              aria-label="View Item"
+              className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
+            >
+              <div className="flex flex-col h-full">
+                <img
+                  src="https://thenewdawnnewspaper.files.wordpress.com/2021/05/img-20210524-wa00146958570869015340317.jpg"
+                  className="object-cover w-full h-48"
+                  alt=""
+                />
+                <div className="flex-grow border border-t-0 rounded-b">
+                  <div className="p-5">
+                    <h6 className="mb-2 font-semibold leading-5">
+                      T-FIVE University
+                    </h6>
+                    <p className="text-sm text-gray-900">
+                      T-Five University was founded 2021
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <a
+              href="http://cu.edu.lr"
+              aria-label="View Item"
+              className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
+            >
+              <div className="flex flex-col h-full">
+                <img
+                  src="https://test.everythinglib.com/wp-content/uploads/2019/06/CU-talnet__1053.jpg"
+                  className="object-cover w-full h-48"
+                  alt=""
+                />
+                <div className="flex-grow border border-t-0 rounded-b">
+                  <div className="p-5">
+                    <h6 className="mb-2 font-semibold leading-5">
+                      Cuttington University
+                    </h6>
+                    <p className="text-sm text-gray-900">
+                      Cuttington University is a private university
+                      in Suacoco, Liberia. Founded in 1889 as Cuttington
+                      College by Episcopal Church of the United States,
+                      it is the oldest private, coeducational, four-year,
+                      degree-granting institution in sub-Saharan Africa.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <a
+              href="https://web.facebook.com/BONGCOLLEGE/?_rdc=1&_rdr"
+              aria-label="View Item"
+              className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
+            >
+              <div className="flex flex-col h-full">
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStV_7KwQLHfE0fxROTWF0cc2Ax_hNWR6WSvw&usqp=CAU"
+                  className="object-cover w-full h-48"
+                  alt=""
+                />
+                <div className="flex-grow border border-t-0 rounded-b">
+                  <div className="p-5">
+                    <h6 className="mb-2 font-semibold leading-5">
+                      Bong County Technical College
+                    </h6>
+                    <p className="text-sm text-gray-900">
+                      The Bong Technical College was established in 2010 by the act of Law for
+                      the sole purpose of educating aspiring students in disciplines that are
+                      technical and skill oriented. The college is accredited by the National
+                      Commission on Higher Education to offer undergraduate degrees in Computer
+                      Science, Mining Engineering, Civil Engineering, Agriculture Technology,
+                      Science Education and Nursing.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+            <a
+              href="https://amezion.edu.lr/"
+              aria-label="View Item"
+              className="inline-block overflow-hidden duration-300 transform bg-white rounded shadow-sm hover:-translate-y-2"
+            >
+              <div className="flex flex-col h-full">
+                <img
+                  src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.6435-9/119118436_114185943754879_2635693559432633728_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=973b4a&_nc_ohc=wzrC8Zykaw4AX_qJipi&_nc_ht=scontent-cdg2-1.xx&oh=00_AfCfmoRCTrTV1dWfsn9pTAhymQDksGE0DajSfPrmtZp0mA&oe=63B82383"
+                  className="object-cover w-full h-48"
+                  alt=""
+                />
+                <div className="flex-grow border border-t-0 rounded-b">
+                  <div className="p-5">
+                    <h6 className="mb-2 font-semibold leading-5">
+                      AME Zion University
+                    </h6>
+                    <p className="text-sm text-gray-900">
+                      The AME Zion University commenced in 1983 with
+                      the founding of the AME Zion School of Business
+                      Studies attached to the AME Zion Academy, a high
+                      school owned by the AME Zion Church.  In 1987,
+                      the AME Zion Community College was established,
+                      offering Associate degrees in Criminal Justice
+                      Administration and Law Enforcement, Liberal Arts,
+                      Business Administration..
                     </p>
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        </div>
 
+        </div>
 
         <footer class="p-4 bg-white rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-900">
           <div class="sm:flex sm:items-center sm:justify-between">
