@@ -88,8 +88,9 @@ export default function Notification() {
                 </span>
                 <span class="text-sm">14 days ago</span>
               </div>
-              <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a href="#">Our first project with React</a></h2>
-              <p class="mb-5 font-light text-gray-500 dark:text-gray-400">Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.</p>
+              <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a href="#">United Methodist University</a></h2>
+              <p class="mb-5 font-light text-gray-500 dark:text-gray-400">The United Methodist University is the only University in Liberia offering an accredited degree in Information Technology.
+              Our instructors are all professionals in their respective fields with a quality amount of experience in their respective fields of specialization.</p>
               <div class="flex justify-between items-center">
                 <div class="flex items-center space-x-4">
                   <img class="w-7 h-7 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png" alt="Bonnie Green avatar" />
@@ -111,8 +112,9 @@ export default function Notification() {
                 </span>
                 <span class="text-sm">14 days ago</span>
               </div>
-              <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a href="#">Our first project with React</a></h2>
-              <p class="mb-5 font-light text-gray-500 dark:text-gray-400">Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.</p>
+              <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a href="#">Stella Maris Polytechnic University </a></h2>
+              <p class="mb-5 font-light text-gray-500 dark:text-gray-400">The Stella Maris Polytechnic is an Institution of higher learning own and operated by the Catholic Archdioces of Monrovia. With main campus situated on Capitol Hill in Monrovia the Polytechnic boasts of four colleges with over 2,500 enrollment.
+              </p>
               <div class="flex justify-between items-center">
                 <div class="flex items-center space-x-4">
                   <img class="w-7 h-7 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png" alt="Bonnie Green avatar" />
@@ -134,8 +136,8 @@ export default function Notification() {
                 </span>
                 <span class="text-sm">14 days ago</span>
               </div>
-              <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a href="#">Our first project with React</a></h2>
-              <p class="mb-5 font-light text-gray-500 dark:text-gray-400">Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.</p>
+              <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a href="#">AME University</a></h2>
+              <p class="mb-5 font-light text-gray-500 dark:text-gray-400">At AMEU, we get our students ready for the future. Through the Learning First model, we make our students a priority. Each year our committed faculty provide individual attention to nearly 5000 students from all parts of Liberia and the West African region.</p>
               <div class="flex justify-between items-center">
                 <div class="flex items-center space-x-4">
                   <img class="w-7 h-7 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png" alt="Bonnie Green avatar" />
