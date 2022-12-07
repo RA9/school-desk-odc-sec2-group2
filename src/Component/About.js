@@ -14,7 +14,7 @@ export default function About() {
                             <br/> <br/>
                             SchoolDesk was actually build to serve as middle man between schools and students around liberia. We help students get quick information from schools and also send information to schools through this platform. </p>
                     </div>
-                    <div class="w-full lg:w-8/12">
+                    <div class="w-full lg:w-1/3">
                         <img class="w-full h-full" src="https://i.pinimg.com/564x/ed/d7/22/edd722c919805a4ce19e96aa1adb88b5.jpg" alt="A group of People" />
                     </div>
                 </div>
